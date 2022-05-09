@@ -10,4 +10,6 @@ import 'package:flutter_test/flutter_test.dart';
 
 import 'package:flutter_tipping_calculator/main.dart';
 
-void main() {}
+void main() {
+  test('no tests', () {}, skip: true);
+}
